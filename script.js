@@ -32,6 +32,7 @@
     });
 
     // Autofocus first input
+
     window.addEventListener('load', () => {
       inputs[0].focus();
     });
